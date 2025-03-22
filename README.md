@@ -21,24 +21,10 @@ I'm a passionate full-stack developer with a growing interest in AI. I enjoy wor
 
 - 📊 &nbsp; MongoDB | SQLite | PostgreSQL
 
-### AI / Machine Learning
-
-- 🤖 &nbsp; TensorFlow | PyTorch (Learning)
-- 📊 &nbsp; Pandas | NumPy
-
-## 🌱 Currently Learning
-
-- Advanced AI and Machine Learning techniques
-- Natural Language Processing (NLP)
-
 ## 📫 Contact Me
 
-- Email: ksb19558@naver.com
+- Email: sungblab@gmail.com
 - GitHub: [sungblab](https://github.com/sungblab)
-
-## ⚡ Fun Facts
-
-- I like music
 
 ---
 
