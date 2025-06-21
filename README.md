@@ -1,31 +1,18 @@
-# Hello, I'm sungblab 👋
+<div style="font-family: serif;">
 
-## 🚀 About Me
+# sungblab
 
-I'm a passionate full-stack developer with a growing interest in AI. I enjoy working with both frontend and backend technologies, and I'm currently exploring the exciting world of artificial intelligence. My goal is to create efficient, user-friendly web applications and integrate AI capabilities into my projects.
+full-stack developer
 
-## 🛠 Tech Stack
+## tech stack
 
-### Frontend
+frontend: react, html, next js
+backend: node.js, express.js, fast api
+database: mongodb, sqlite, postgresql
 
-- 💻 &nbsp; React
-- 🌐 &nbsp; HTML | CSS | JavaScript
-- 🎨 &nbsp; Tailwind CSS
+## contact
 
-### Backend
+email: sungblab@gmail.com
+Blog: https://sungblab.vercel.app/blog
 
-- 🖥 &nbsp; Node.js | Python
-- 🛢 &nbsp; Express.js | Flask
-
-### Database
-
-- 📊 &nbsp; MongoDB | SQLite | PostgreSQL
-
-## 📫 Contact Me
-
-- Email: sungblab@gmail.com
-- GitHub: [sungblab](https://github.com/sungblab)
-
----
-
-⭐️ From [sungblab](https://github.com/sungblab)
+</div>
