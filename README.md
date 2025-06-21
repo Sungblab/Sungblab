@@ -1,5 +1,3 @@
-<div style="font-family: serif;">
-
 # sungblab
 
 full-stack developer
@@ -13,6 +11,4 @@ database: mongodb, sqlite, postgresql
 ## contact
 
 email: sungblab@gmail.com
-Blog: https://sungblab.vercel.app/blog
-
-</div>
+github: https://github.com/sungblab
