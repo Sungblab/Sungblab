@@ -15,7 +15,7 @@
 ## contact
 
 **email:** sungblab@gmail.com  
-**github:** https://github.com/sungblab
+**Blog:** https://sungblab.vercel.app/blog
 
 ---
 
