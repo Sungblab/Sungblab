@@ -12,7 +12,7 @@ const developer = {
   status: "Debugging life...",
 
   askMeAbout: () => {
-    return "Web Development, System Design, or Anime";
+    return "Web Development, Study AI";
   },
 };
 ```
