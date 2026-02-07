@@ -23,6 +23,5 @@ const sungbin = {
 
 ### Stats
 
-![Sungblab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sungblab&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sungblab&layout=compact&theme=dark&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sungblab&theme=nord_dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sungblab&theme=nord_dark)
