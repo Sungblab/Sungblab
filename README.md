@@ -6,7 +6,7 @@
  * Powered by Coffee and Code.
  */
 const developer = {
-  name: "Sungbin",
+  name: "Sungblab",
   role: "Full Stack Developer",
   skills: ["React", "Node.js", "Python", "SQL"],
   status: "Debugging life...",
