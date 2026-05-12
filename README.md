@@ -3,7 +3,7 @@
 ```javascript
 /**
  * Always looking for new challenges.
- * Powered by Coffee and Code.
+ * Powered by Coke and Code.
  */
 const developer = {
   name: "Sungblab",
