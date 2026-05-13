@@ -62,5 +62,5 @@ const developer = {
 
 ```bash
 $ contact --email "sungblab@gmail.com"
-$ contact --blog "sungblab.vercel.app/blog"
+$ contact --blog "sungblab.com/blog"
 ```
