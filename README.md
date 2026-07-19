@@ -6,12 +6,6 @@ I tend to understand problems by turning them into small tools, especially when 
 
 I prefer making something that works in a small form over explaining an idea for too long.
 
-## Projects
-
-* **[Agent Boundary Kit](https://github.com/Sungblab/agent-boundary-kit)** — boundary fixtures and evidence gates for AI coding agents
-* **[Devflow Native](https://github.com/Sungblab/Devflow-Native)** — handoff and work-context experiments for AI-assisted development
-* **[QR-RFID Attendance](https://github.com/Sungblab/QR-RFID-Attendance)** — a smart attendance system using QR check-ins, RFID cards, dashboards, and Arduino
-
 ## Links
 
 [Website](https://sungblab.com) · [LinkedIn](https://www.linkedin.com/in/sungbin-kim) · [Email](mailto:your-email@example.com)
