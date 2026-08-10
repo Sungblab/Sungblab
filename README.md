@@ -8,4 +8,4 @@ I prefer making something that works in a small form over explaining an idea for
 
 ## Links
 
-[Website](https://sungblab.com) · [LinkedIn](https://www.linkedin.com/in/sungbin-kim) · [Email](mailto:your-email@example.com)
+[Website](https://sungblab.com) · [LinkedIn](https://www.linkedin.com/in/sungblab) · [Email](mailto:your-email@example.com)
