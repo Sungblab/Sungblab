@@ -1,11 +1,13 @@
-# Sungbin Kim
+### Sungbin Kim
 
-I build software with AI.
+I'm studying Artificial Intelligence at Kookmin University. I've been into
+computers since I was a kid, and I got into web development in ninth grade,
+digging through GitHub and Stack Overflow. When I started using Claude 3 Opus
+in early 2024, I could finally build the ideas that had only existed in my head.
 
-I tend to understand problems by turning them into small tools, especially when they come from things I’ve experienced or seen up close. Rather than waiting until I fully understand everything, I usually start by building, using, and learning what I need along the way.
+When I run into a problem, I usually try to understand it by turning it into a
+small tool — especially when it's something I've experienced or seen up close
+myself. Rather than waiting until I fully understand something, I start
+building and learn what I need along the way.
 
-I prefer making something that works in a small form over explaining an idea for too long.
-
-## Links
-
-[Website](https://sungblab.com) · [LinkedIn](https://www.linkedin.com/in/sungblab) · [Email](mailto:your-email@example.com)
+**Links:** [Website](https://sungblab.com) · [LinkedIn](https://kr.linkedin.com/in/sungblab) · [Email](mailto:sungblab@gmail.com)
