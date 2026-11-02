@@ -1,4 +1,9 @@
-<a href="https://sungblab.com"><img src="assets/banner.png" alt="Sungblab — I turn ideas into working software." width="100%"></a>
+<a href="https://sungblab.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <img src="assets/banner-light.png" alt="Sungblab — I turn ideas into working software." width="100%">
+  </picture>
+</a>
 
 ### Sungbin Kim
 
