@@ -15,8 +15,4 @@ and ideas that had only lived in my head became things I could actually build.
 Since then I've built and shipped a number of projects.
 Now I build alongside coding agents, and I write down what I learn along the way.
 
-**Live services**
-- [Sungblab AX](https://ax.sungblab.com) — a custom-build service that ties an e-commerce company's purchase orders, shipping labels, orders and books into one system
-- [Gibokine](https://gibokine.com) — my parents' online abalone store, plus the order, shipping and bookkeeping system their staff use every day
-
 **Links:** [Website](https://sungblab.com) · [Blog](https://sungblab.com/blog) · [LinkedIn](https://kr.linkedin.com/in/sungblab) · [Email](mailto:sungblab@gmail.com)
