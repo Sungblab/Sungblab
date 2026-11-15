@@ -7,14 +7,16 @@
 
 ### Sungbin Kim
 
-I'm studying Artificial Intelligence at Kookmin University.
-I've been into computers since I was a kid, and I got into web development in 8th grade,
-digging through GitHub and Stack Overflow. When I started using Claude 3 Opus
-in early 2024, I could finally build the ideas that had only existed in my head.
+I'm studying Artificial Intelligence at Kookmin University. I got into computers early,
+and started web development in 8th grade, digging through GitHub and Stack Overflow.
+In early 2024 I started using Claude 3 Opus,
+and ideas that had only lived in my head became things I could actually build.
 
-When I run into a problem, I usually try to understand it by turning it into a
-small tool — especially when it's something I've experienced or seen up close
-myself. Rather than waiting until I fully understand something,
-I start building and learn what I need along the way.
+Since then I've built and shipped a number of projects.
+Now I build alongside coding agents, and I write down what I learn along the way.
+
+**Live services**
+- [Sungblab AX](https://ax.sungblab.com) — a custom-build service that ties an e-commerce company's purchase orders, shipping labels, orders and books into one system
+- [Gibokine](https://gibokine.com) — my parents' online abalone store, plus the order, shipping and bookkeeping system their staff use every day
 
 **Links:** [Website](https://sungblab.com) · [Blog](https://sungblab.com/blog) · [LinkedIn](https://kr.linkedin.com/in/sungblab) · [Email](mailto:sungblab@gmail.com)
